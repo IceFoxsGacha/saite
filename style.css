@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#a{
+    height: 400px;
+    background-color: cyan;
+    display: flex;
+}
+
+#z1{flex-grow: 1;
+    background-color: beige;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://static.mk.ru/upload/entities/2020/03/05/10/articles/detailPicture/80/e1/f1/f9/2acda9218771be5ef15cbc34d6fda1a7.jpg);
+}
+
+#z2{flex-grow: 2;
+    background-color: rgb(11, 51, 184);
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://icdn.lenta.ru/images/2016/05/22/19/20160522194544461/detail_0a84645d2cc0499dc26d918c8beb644e.jpg);
+}
+
+#z3{flex-grow: 1;
+    background-color: rgb(255, 0, 0);
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://gdb.voanews.com/c04272fa-2f87-43fe-8f0b-2cfd32364c9d_tv_w408_r1.jpg);
+}/*  */

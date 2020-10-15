@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#blue{
+    background-color: rgb(119, 119, 199);
+    height: 300px;
+    display: flex;
+}
+#green{
+    flex-grow: 1;
+    background-color: green;
+    
+}
+#red{
+    flex-grow: 1;
+    background-color: red;
+    display: flex;
+}
+
+}
+#black{
+    flex-grow: 1;
+    background-color: black;
+
+}
+#yellow{
+
+}
